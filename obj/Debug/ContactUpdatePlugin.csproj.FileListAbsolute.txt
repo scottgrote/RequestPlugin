@@ -1,0 +1,10 @@
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\bin\Debug\ContactUpdatePlugin.dll
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\bin\Debug\ContactUpdatePlugin.pdb
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\obj\Debug\ContactUpdatePlugin.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\obj\Debug\ContactUpdatePlugin.csproj.CopyComplete
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\obj\Debug\ContactUpdatePlugin.dll
+C:\Users\scott\source\repos\ContactUpdatePlugin\ContactUpdatePlugin\obj\Debug\ContactUpdatePlugin.pdb
